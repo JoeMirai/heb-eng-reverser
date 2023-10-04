@@ -5,7 +5,7 @@
 declare -A letters
 
 #Addkey-valuepairstothedictionary
-letters["a"]="ש."
+letters["a"]="ש"
 letters["b"]="נ"
 letters["c"]="ב"
 letters["d"]="ג"
