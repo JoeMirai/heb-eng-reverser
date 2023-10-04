@@ -1,7 +1,8 @@
 # English-Hebrew Keyboard Auto Switcher README
 
 ## Project Overview
-The English-Hebrew Keyboard Auto Switcher is a script that facilitates automatic conversion of text between English and Hebrew. It recognises and converts input text copied to the clipboard between the two languages, eradicates miscommunication by ensuring that multilingual texts are accurately represented in their respective compositions. If you've ever unintentionally typed English instead of Hebrew, or vice versa this utility could help relieve language switch woes. 
+This script allows you to automatically convert an English text to Hebrew and vice versa, copied to the clipboard. 
+Have you ever written a line in Hebrew then look at the screen and see that it's in English or the opposite, writing in Eng just to find out it's Hebrew? This script is the solution for that frustration!
 
 ## Functional Mechanism
 The script initially sets up an associative array codenamed `letters`, operating as a rudimentary dictionary that pairs each English alphabet with its analog Hebrew character.
