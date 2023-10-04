@@ -2,6 +2,7 @@
 
 ## Project Overview
 This script allows you to automatically convert an English text to Hebrew and vice versa, copied to the clipboard. 
+
 Have you ever written a line in Hebrew then look at the screen and see that it's in English or the opposite, writing in Eng just to find out it's Hebrew? This script is the solution for that frustration!
 
 ## Functional Mechanism
