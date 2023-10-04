@@ -15,9 +15,9 @@ letters["b"]="נ"
 letters["c"]="ב"
 letters["d"]="ג"
 ```
-This pattern is consistent through the conclusion of the English alphabet.
+This pattern is consistent through the conclusion of the English and hebrew alphabet.
 
-In procedure, the script retrieves the most recent text from the clipboard, substitutes each English character with a corresponding Hebrew character leveraging the function `replace_characters`.
+In procedure, the script retrieves the most recent text from the clipboard, substitutes each English/heb character with a corresponding character leveraging the function `replace_characters`.
 
 The resultant translated text is consequently copied back onto the clipboard and, optionally, printed to the stdout.
 
