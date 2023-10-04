@@ -23,3 +23,7 @@ The resulting text is copied back to the clipboard and (optionally) echoed to th
 
 ## Requirements
 This script requires `xclip` to be installed which is a command line interface to X selections (clipboard).
+```bash
+sudo apt update 
+sudo apt install xclip
+```
